@@ -121,6 +121,7 @@ We welcome contributions! Please feel free to submit a Pull Request.
 
 - [Aditya Joshi](https://github.com/Adityaj08)
 - [Aditya Nagurkar](https://github.com/Aditya-Nagurkar)
+- [Pallavi Marbe](https://github.com/pallavipmarbe)
 - [Ashutosh Mathapati](https://github.com/Ashutosh-Mathapati)
 - [H M Dhanush](https://github.com/Dhanushiremath)
 - [Snehalkumar](https://github.com/snehal1616)
